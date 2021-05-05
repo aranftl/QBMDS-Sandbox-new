@@ -1,0 +1,150 @@
+{
+  "platform": "nextjs",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
+  },
+  "images": {
+    "scheme": "public-files",
+    "publicDir": "../public",
+    "publicUrlPrefix": "/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+      "projectName": "New Figma Test",
+      "version": "latest",
+      "cssFilePath": "plasmic/new_figma_test/plasmic_new_figma_test.module.css",
+      "components": [
+        {
+          "id": "2oDxXLtuj9QP",
+          "name": "PricingTest",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicPricingTest.tsx",
+          "importSpec": {
+            "modulePath": "../pages/index.tsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicPricingTest.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "5NdmoXTPsJ9",
+          "name": "RwPriceCard",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicRwPriceCard.tsx",
+          "importSpec": {
+            "modulePath": "RwPriceCard.tsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicRwPriceCard.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "ZtlGG_EjHW",
+          "name": "RwButton",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicRwButton.tsx",
+          "importSpec": {
+            "modulePath": "RwButton.tsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicRwButton.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "aBVp1OdCVQ",
+          "name": "RwBanner",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicRwBanner.tsx",
+          "importSpec": {
+            "modulePath": "RwBanner.tsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicRwBanner.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "5Zh2jaWV88",
+          "name": "MobileControlright",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicMobileControlright.tsx",
+          "importSpec": {
+            "modulePath": "MobileControlright.tsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicMobileControlright.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "3pT1k967mK",
+          "name": "MobileControlleft",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicMobileControlleft.tsx",
+          "importSpec": {
+            "modulePath": "MobileControlleft.tsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicMobileControlleft.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        }
+      ],
+      "icons": [
+        {
+          "id": "3_Et6U0xfn5",
+          "name": "SeparatorIcon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__Separator.tsx"
+        },
+        {
+          "id": "pNiNdGhV783",
+          "name": "Rectangle712Icon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__Rectangle712.tsx"
+        },
+        {
+          "id": "L7BY_8YYtd",
+          "name": "Vector4Icon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__Vector4.tsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "WIxE3HjXqT",
+          "name": "Vector",
+          "filePath": "../public/plasmic/new_figma_test/images/vector.svg"
+        }
+      ],
+      "projectApiToken": "mp1TMhNBlXuAAtjs6lVC2LqbP0N5gtzBUrKvpsEkOENJBmQ1fUSifat1LEMPGQLjNCTjf4NzHDFfjjktg"
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "b0t-W0BM_nt_",
+        "name": "Screen",
+        "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+        "contextFilePath": "plasmic/new_figma_test/PlasmicGlobalVariant__Screen.tsx"
+      }
+    ]
+  },
+  "nextjsConfig": {
+    "pagesDir": "../pages"
+  },
+  "cliVersion": "0.1.145",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.145/dist/plasmic.schema.json"
+}
