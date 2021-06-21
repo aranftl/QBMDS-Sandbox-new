@@ -2,7 +2,8 @@
   "platform": "nextjs",
   "code": {
     "lang": "ts",
-    "scheme": "blackbox"
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
   },
   "style": {
     "scheme": "css-modules",
@@ -129,7 +130,8 @@
           "filePath": "../public/plasmic/new_figma_test/images/vector.svg"
         }
       ],
-      "projectApiToken": "mp1TMhNBlXuAAtjs6lVC2LqbP0N5gtzBUrKvpsEkOENJBmQ1fUSifat1LEMPGQLjNCTjf4NzHDFfjjktg"
+      "projectApiToken": "mp1TMhNBlXuAAtjs6lVC2LqbP0N5gtzBUrKvpsEkOENJBmQ1fUSifat1LEMPGQLjNCTjf4NzHDFfjjktg",
+      "codeComponents": []
     }
   ],
   "globalVariants": {
@@ -145,6 +147,6 @@
   "nextjsConfig": {
     "pagesDir": "../pages"
   },
-  "cliVersion": "0.1.145",
-  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.145/dist/plasmic.schema.json"
+  "cliVersion": "0.1.156",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.156/dist/plasmic.schema.json"
 }

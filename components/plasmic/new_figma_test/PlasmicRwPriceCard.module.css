@@ -32,7 +32,7 @@
   flex-direction: column;
 }
 .slotChildren {
-  font-family: "AvenirNext forINTUIT";
+  font-family: AvenirNext forINTUIT;
   font-size: 28px;
   font-weight: 500;
   color: rgba(0, 0, 0, 1);
@@ -51,7 +51,7 @@
   flex-direction: column;
 }
 .slotSlot {
-  font-family: "AvenirNext forINTUIT";
+  font-family: AvenirNext forINTUIT;
   font-size: 14px;
   font-weight: 500;
   color: rgba(0, 0, 0, 1);
@@ -88,20 +88,20 @@
   left: 21px;
 }
 .slotWholePrice {
-  font-family: "AvenirNext forINTUIT";
+  font-family: AvenirNext forINTUIT;
   font-size: 60px;
   font-weight: 700;
-  color: rgba(9, 132, 66, 1);
+  color: #0d333f;
   line-height: 76px;
 }
 .box___3Ih8O {
   display: block;
   font-size: 24px;
-  font-family: "AvenirNext forINTUIT";
+  font-family: AvenirNext forINTUIT;
   font-weight: 700;
   letter-spacing: 0em;
   line-height: 20px;
-  color: rgba(9, 132, 66, 1);
+  color: #0d333f;
   position: absolute;
   top: 29px;
   left: 0px;
@@ -109,11 +109,11 @@
 .box__xiVVy {
   display: block;
   font-size: 24px;
-  font-family: "AvenirNext forINTUIT";
+  font-family: AvenirNext forINTUIT;
   font-weight: 700;
   letter-spacing: 0em;
   line-height: 20px;
-  color: rgba(9, 132, 66, 1);
+  color: #0d333f;
   position: absolute;
   top: 30px;
   left: 98px;
@@ -126,7 +126,7 @@
   align-self: center;
 }
 .slotDuration {
-  font-family: "AvenirNext forINTUIT";
+  font-family: AvenirNext forINTUIT;
   font-size: 12px;
   font-weight: 400;
   color: rgba(0, 0, 0, 1);
@@ -157,7 +157,7 @@
   font-size: 14px;
   text-align: center;
   text-decoration-line: underline;
-  font-family: "AvenirNext forINTUIT";
+  font-family: AvenirNext forINTUIT;
   letter-spacing: 0em;
   line-height: 24px;
   color: rgba(12, 50, 62, 1);
@@ -184,7 +184,7 @@
 .box__d0LrT {
   display: block;
   font-size: 16px;
-  font-family: "AvenirNext forINTUIT";
+  font-family: AvenirNext forINTUIT;
   letter-spacing: 0em;
   line-height: 24px;
   color: rgba(9, 132, 66, 1);
@@ -227,7 +227,7 @@
 .box__n5ZV {
   display: block;
   font-size: 14px;
-  font-family: "AvenirNext forINTUIT";
+  font-family: AvenirNext forINTUIT;
   font-weight: 500;
   letter-spacing: 0em;
   line-height: 20px;
@@ -261,7 +261,7 @@
 .box__x5G92 {
   display: block;
   font-size: 14px;
-  font-family: "AvenirNext forINTUIT";
+  font-family: AvenirNext forINTUIT;
   font-weight: 500;
   letter-spacing: 0em;
   line-height: 20px;
@@ -295,7 +295,7 @@
 .box__pzaUi {
   display: block;
   font-size: 14px;
-  font-family: "AvenirNext forINTUIT";
+  font-family: AvenirNext forINTUIT;
   font-weight: 500;
   letter-spacing: 0em;
   line-height: 20px;
@@ -329,7 +329,7 @@
 .box__pLisO {
   display: block;
   font-size: 14px;
-  font-family: "AvenirNext forINTUIT";
+  font-family: AvenirNext forINTUIT;
   font-weight: 500;
   letter-spacing: 0em;
   line-height: 20px;
