@@ -360,10 +360,10 @@
   resolved "https://registry.yarnpkg.com/@opentelemetry/context-base/-/context-base-0.14.0.tgz#c67fc20a4d891447ca1a855d7d70fa79a3533001"
   integrity sha512-sDOAZcYwynHFTbLo6n8kIbLiVF3a3BLkrmehJUyEbT9F+Smbi47kLGS2gG2g0fjBLR/Lr1InPD7kXL7FaTqEkw==
 
-"@plasmicapp/cli@^0.1.156":
-  version "0.1.156"
-  resolved "https://registry.yarnpkg.com/@plasmicapp/cli/-/cli-0.1.156.tgz#408b988de3afa3b20af47f138b43c32f2787aab6"
-  integrity sha512-TNZeNOgx8OP0oK6cOFGoLKnSzNp5hyH1/jBTalFjTNf4RP8ck15v/TnspqukGNCicMzHiaZBywgB+fp3PebXfw==
+"@plasmicapp/cli@^0.1.157":
+  version "0.1.157"
+  resolved "https://registry.yarnpkg.com/@plasmicapp/cli/-/cli-0.1.157.tgz#0b64b43983bbb79d2f4b36fef9f1c196c4f94a26"
+  integrity sha512-8K3MUnAB249wAXL1lqDI4xV5qNE2qBL4hXjUFFusNkimMz0AIZ3CgmQ6G49lzFnRLMVkV2oslo3uhxxBHk6UtQ==
   dependencies:
     "@babel/core" "^7.12.3"
     "@babel/generator" "^7.12.1"

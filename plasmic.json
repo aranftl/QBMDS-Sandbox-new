@@ -104,6 +104,19 @@
           "cssFilePath": "plasmic/new_figma_test/PlasmicMobileControlleft.module.css",
           "scheme": "blackbox",
           "componentType": "component"
+        },
+        {
+          "id": "Rk1jRnXKDu",
+          "name": "Test",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicTest.tsx",
+          "importSpec": {
+            "modulePath": "Test.tsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicTest.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
         }
       ],
       "icons": [
@@ -121,6 +134,16 @@
           "id": "L7BY_8YYtd",
           "name": "Vector4Icon",
           "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__Vector4.tsx"
+        },
+        {
+          "id": "2fdrCWYF_HL",
+          "name": "Rectangle713Icon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__Rectangle713.tsx"
+        },
+        {
+          "id": "N-AzQaCnZa",
+          "name": "PlayIcon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__Play.tsx"
         }
       ],
       "images": [
@@ -128,6 +151,11 @@
           "id": "WIxE3HjXqT",
           "name": "Vector",
           "filePath": "../public/plasmic/new_figma_test/images/vector.svg"
+        },
+        {
+          "id": "yduxNW4SAn",
+          "name": "Vector 2",
+          "filePath": "../public/plasmic/new_figma_test/images/vector2.svg"
         }
       ],
       "projectApiToken": "mp1TMhNBlXuAAtjs6lVC2LqbP0N5gtzBUrKvpsEkOENJBmQ1fUSifat1LEMPGQLjNCTjf4NzHDFfjjktg",
@@ -147,6 +175,6 @@
   "nextjsConfig": {
     "pagesDir": "../pages"
   },
-  "cliVersion": "0.1.156",
-  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.156/dist/plasmic.schema.json"
+  "cliVersion": "0.1.157",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.157/dist/plasmic.schema.json"
 }
