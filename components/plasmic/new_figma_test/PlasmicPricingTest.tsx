@@ -148,7 +148,7 @@ function PlasmicPricingTest__RenderFunc(props: {
           </RwPriceCard>
         </p.Stack>
 
-        {(hasVariant(globalVariants, "screen", "mobileOnly") ? true : false) ? (
+        {(hasVariant(globalVariants, "screen", "mobile") ? true : false) ? (
           <p.Stack
             as={"div"}
             data-plasmic-name={"controller"}
@@ -156,18 +156,14 @@ function PlasmicPricingTest__RenderFunc(props: {
             hasGap={true}
             className={classNames(defaultcss.all, sty.controller)}
           >
-            {(
-              hasVariant(globalVariants, "screen", "mobileOnly") ? true : false
-            ) ? (
+            {(hasVariant(globalVariants, "screen", "mobile") ? true : false) ? (
               <div
                 data-plasmic-name={"left"}
                 data-plasmic-override={overrides.left}
                 className={classNames(defaultcss.all, sty.left)}
               >
                 {(
-                  hasVariant(globalVariants, "screen", "mobileOnly")
-                    ? true
-                    : false
+                  hasVariant(globalVariants, "screen", "mobile") ? true : false
                 ) ? (
                   <MobileControlleft
                     data-plasmic-name={"mobileControlleft"}
@@ -180,18 +176,14 @@ function PlasmicPricingTest__RenderFunc(props: {
                 ) : null}
               </div>
             ) : null}
-            {(
-              hasVariant(globalVariants, "screen", "mobileOnly") ? true : false
-            ) ? (
+            {(hasVariant(globalVariants, "screen", "mobile") ? true : false) ? (
               <div
                 data-plasmic-name={"right2"}
                 data-plasmic-override={overrides.right2}
                 className={classNames(defaultcss.all, sty.right2)}
               >
                 {(
-                  hasVariant(globalVariants, "screen", "mobileOnly")
-                    ? true
-                    : false
+                  hasVariant(globalVariants, "screen", "mobile") ? true : false
                 ) ? (
                   <MobileControlright
                     data-plasmic-name={"right"}

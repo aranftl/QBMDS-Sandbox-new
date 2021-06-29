@@ -117,6 +117,32 @@
           "cssFilePath": "plasmic/new_figma_test/PlasmicTest.module.css",
           "scheme": "blackbox",
           "componentType": "component"
+        },
+        {
+          "id": "yL-tGJImrp",
+          "name": "ProductHero",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicProductHero.tsx",
+          "importSpec": {
+            "modulePath": "ProductHero.tsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicProductHero.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "oDroFXNWeS",
+          "name": "ProductHeroPage",
+          "type": "managed",
+          "projectId": "x8ztdr6NwjtFcF6gdhDwfr",
+          "renderModuleFilePath": "plasmic/new_figma_test/PlasmicProductHeroPage.tsx",
+          "importSpec": {
+            "modulePath": "../pages/product-hero.tsx"
+          },
+          "cssFilePath": "plasmic/new_figma_test/PlasmicProductHeroPage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
         }
       ],
       "icons": [
@@ -144,6 +170,11 @@
           "id": "N-AzQaCnZa",
           "name": "PlayIcon",
           "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__Play.tsx"
+        },
+        {
+          "id": "gXZ43R9hVV",
+          "name": "BackgroundContainerIcon",
+          "moduleFilePath": "plasmic/new_figma_test/icons/PlasmicIcon__BackgroundContainer.tsx"
         }
       ],
       "images": [
@@ -156,6 +187,21 @@
           "id": "yduxNW4SAn",
           "name": "Vector 2",
           "filePath": "../public/plasmic/new_figma_test/images/vector2.svg"
+        },
+        {
+          "id": "R4yyoFoEZ",
+          "name": "product-cut2 2",
+          "filePath": "../public/plasmic/new_figma_test/images/productCut22.png"
+        },
+        {
+          "id": "8_uN8hc7oiB",
+          "name": "Play icon",
+          "filePath": "../public/plasmic/new_figma_test/images/playIcon.svg"
+        },
+        {
+          "id": "ZRC8lGCI3a9",
+          "name": "Play icon 2",
+          "filePath": "../public/plasmic/new_figma_test/images/playIcon2.svg"
         }
       ],
       "projectApiToken": "mp1TMhNBlXuAAtjs6lVC2LqbP0N5gtzBUrKvpsEkOENJBmQ1fUSifat1LEMPGQLjNCTjf4NzHDFfjjktg",

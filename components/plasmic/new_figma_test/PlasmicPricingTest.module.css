@@ -9,7 +9,7 @@
   min-width: 0;
   background: #f5f7f8;
 }
-@media (min-width: 0px) and (max-width: 769px) {
+@media (min-width: 0px) and (max-width: 375px) {
   .root {
     align-items: flex-start;
     padding-left: 40px;
@@ -34,14 +34,14 @@
 .box > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
   margin-left: 20px;
 }
-@media (min-width: 0px) and (max-width: 769px) {
+@media (min-width: 0px) and (max-width: 375px) {
   .box {
     margin-left: 20px;
     margin-right: 20px;
     padding-right: 40px;
   }
 }
-@media (min-width: 0px) and (max-width: 769px) {
+@media (min-width: 0px) and (max-width: 375px) {
   .box > :global(.__wab_flex-container) {
     justify-content: flex-start;
   }
@@ -78,7 +78,7 @@
 .controller > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
   margin-left: 8%;
 }
-@media (min-width: 0px) and (max-width: 769px) {
+@media (min-width: 0px) and (max-width: 375px) {
   .controller {
     position: absolute;
     left: 0px;
@@ -98,7 +98,7 @@
 .mobileControlleft:global(.__wab_instance) {
   position: relative;
 }
-@media (min-width: 0px) and (max-width: 769px) {
+@media (min-width: 0px) and (max-width: 375px) {
   .mobileControlleft:global(.__wab_instance) {
     align-self: flex-start;
     margin-left: -20px;
@@ -120,7 +120,7 @@
 .right:global(.__wab_instance) {
   position: relative;
 }
-@media (min-width: 0px) and (max-width: 769px) {
+@media (min-width: 0px) and (max-width: 375px) {
   .right:global(.__wab_instance) {
     align-self: flex-end;
     margin-right: -20px;

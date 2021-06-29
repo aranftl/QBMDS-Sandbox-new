@@ -19,6 +19,11 @@
   background: #0d333f;
   border: 1px solid #000000;
 }
+@media (min-width: 0px) and (max-width: 375px) {
+  .button {
+    width: 295px;
+  }
+}
 .button__medium {
   min-width: 120px;
   padding: 13px 28px;
